@@ -2,4 +2,4 @@
 Tutorial for Git
 
 
-I like the P scripting languages (PowerShell & Pyhone).
+I like the P scripting languages (PowerShell & Python).
